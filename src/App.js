@@ -1,11 +1,14 @@
+import React from 'react'
 import './App.css';
 import Form from "./components/Form";
-import React from 'react'
+import Form2 from "./components/Form2";
 
 function App() {
   return (
     <div className="App">
       <Form/>
+      <br/>
+      <Form2/>
     </div>
   );
 }
