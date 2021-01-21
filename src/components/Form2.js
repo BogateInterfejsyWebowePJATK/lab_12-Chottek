@@ -89,7 +89,6 @@ export default function Form2() {
                     <button onClick={reset}>RESET</button>
                 </table>
             }
-
         </>
     );
 }
